@@ -1,4 +1,4 @@
-// procura o id resposta no html e atribui a variável respostaElemento
+// procura o id resposta no html e atribui à variável respostaElemento
 const respostaElemento = document.querySelector("#resposta")
  
 //
